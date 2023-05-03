@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="15" passed="15" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-03T11:24:24 IST" name="Suite" finished-at="2023-05-03T11:25:37 IST" duration-ms="73285">
+    <groups>
+    </groups>
+    <test started-at="2023-05-03T11:24:24 IST" name="OrangeHRM" finished-at="2023-05-03T11:25:37 IST" duration-ms="73285">
+      <class name="TestNGFrameWork.OrangeHRMAlertPopUp">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:TestNGFrameWork.OrangeHRMAlertPopUp@73a1e9a9]" started-at="2023-05-03T11:25:27 IST" name="openBrowser" finished-at="2023-05-03T11:25:32 IST" duration-ms="4995" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="loginCredentails()[pri:0, instance:TestNGFrameWork.OrangeHRMAlertPopUp@73a1e9a9]" started-at="2023-05-03T11:25:32 IST" name="loginCredentails" finished-at="2023-05-03T11:25:32 IST" duration-ms="19" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginCredentails -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:TestNGFrameWork.OrangeHRMAlertPopUp@73a1e9a9]" started-at="2023-05-03T11:25:32 IST" name="closeBrowser" finished-at="2023-05-03T11:25:32 IST" duration-ms="113" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- TestNGFrameWork.OrangeHRMAlertPopUp -->
+      <class name="TestNGFrameWork.OrangeHRMLogin">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:TestNGFrameWork.OrangeHRMLogin@3270d194]" started-at="2023-05-03T11:24:52 IST" name="openBrowser" finished-at="2023-05-03T11:24:57 IST" duration-ms="4886" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="loginCredentails()[pri:0, instance:TestNGFrameWork.OrangeHRMLogin@3270d194]" started-at="2023-05-03T11:24:57 IST" name="loginCredentails" finished-at="2023-05-03T11:24:57 IST" duration-ms="19" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginCredentails -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:TestNGFrameWork.OrangeHRMLogin@3270d194]" started-at="2023-05-03T11:24:57 IST" name="closeBrowser" finished-at="2023-05-03T11:24:57 IST" duration-ms="96" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- TestNGFrameWork.OrangeHRMLogin -->
+      <class name="TestNGFrameWork.FillDetails">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:TestNGFrameWork.FillDetails@77888435]" started-at="2023-05-03T11:25:22 IST" name="openBrowser" finished-at="2023-05-03T11:25:27 IST" duration-ms="5011" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="loginCredentails()[pri:0, instance:TestNGFrameWork.FillDetails@77888435]" started-at="2023-05-03T11:25:27 IST" name="loginCredentails" finished-at="2023-05-03T11:25:27 IST" duration-ms="27" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginCredentails -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:TestNGFrameWork.FillDetails@77888435]" started-at="2023-05-03T11:25:27 IST" name="closeBrowser" finished-at="2023-05-03T11:25:27 IST" duration-ms="77" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- TestNGFrameWork.FillDetails -->
+      <class name="TestNGFrameWork.EmployeeTrackers">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:TestNGFrameWork.EmployeeTrackers@71d44a3]" started-at="2023-05-03T11:25:32 IST" name="openBrowser" finished-at="2023-05-03T11:25:37 IST" duration-ms="4916" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="loginCredentails()[pri:0, instance:TestNGFrameWork.EmployeeTrackers@71d44a3]" started-at="2023-05-03T11:25:37 IST" name="loginCredentails" finished-at="2023-05-03T11:25:37 IST" duration-ms="15" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginCredentails -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:TestNGFrameWork.EmployeeTrackers@71d44a3]" started-at="2023-05-03T11:25:37 IST" name="closeBrowser" finished-at="2023-05-03T11:25:37 IST" duration-ms="115" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- TestNGFrameWork.EmployeeTrackers -->
+      <class name="TestNGFrameWork.TrackersAdd">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:TestNGFrameWork.TrackersAdd@a1153bc]" started-at="2023-05-03T11:24:29 IST" name="openBrowser" finished-at="2023-05-03T11:24:33 IST" duration-ms="3912" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="loginCredentails()[pri:0, instance:TestNGFrameWork.TrackersAdd@a1153bc]" started-at="2023-05-03T11:24:33 IST" name="loginCredentails" finished-at="2023-05-03T11:24:33 IST" duration-ms="27" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginCredentails -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:TestNGFrameWork.TrackersAdd@a1153bc]" started-at="2023-05-03T11:24:33 IST" name="closeBrowser" finished-at="2023-05-03T11:24:33 IST" duration-ms="110" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- TestNGFrameWork.TrackersAdd -->
+      <class name="TestNGFrameWork.FillDetailsinAddTrackers">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:TestNGFrameWork.FillDetailsinAddTrackers@14cd1699]" started-at="2023-05-03T11:25:17 IST" name="openBrowser" finished-at="2023-05-03T11:25:21 IST" duration-ms="4898" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="loginCredentails()[pri:0, instance:TestNGFrameWork.FillDetailsinAddTrackers@14cd1699]" started-at="2023-05-03T11:25:21 IST" name="loginCredentails" finished-at="2023-05-03T11:25:21 IST" duration-ms="19" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginCredentails -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:TestNGFrameWork.FillDetailsinAddTrackers@14cd1699]" started-at="2023-05-03T11:25:21 IST" name="closeBrowser" finished-at="2023-05-03T11:25:22 IST" duration-ms="66" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- TestNGFrameWork.FillDetailsinAddTrackers -->
+      <class name="TestNGFrameWork.AddButton">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:TestNGFrameWork.AddButton@1aafa419]" started-at="2023-05-03T11:24:33 IST" name="openBrowser" finished-at="2023-05-03T11:24:37 IST" duration-ms="3876" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="loginCredentails()[pri:0, instance:TestNGFrameWork.AddButton@1aafa419]" started-at="2023-05-03T11:24:37 IST" name="loginCredentails" finished-at="2023-05-03T11:24:37 IST" duration-ms="24" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginCredentails -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:TestNGFrameWork.AddButton@1aafa419]" started-at="2023-05-03T11:24:37 IST" name="closeBrowser" finished-at="2023-05-03T11:24:37 IST" duration-ms="117" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- TestNGFrameWork.AddButton -->
+      <class name="TestNGFrameWork.ConfigureOption">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:TestNGFrameWork.ConfigureOption@77fbd92c]" started-at="2023-05-03T11:24:24 IST" name="openBrowser" finished-at="2023-05-03T11:24:29 IST" duration-ms="5451" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="loginCredentails()[pri:0, instance:TestNGFrameWork.ConfigureOption@77fbd92c]" started-at="2023-05-03T11:24:29 IST" name="loginCredentails" finished-at="2023-05-03T11:24:29 IST" duration-ms="32" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginCredentails -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:TestNGFrameWork.ConfigureOption@77fbd92c]" started-at="2023-05-03T11:24:29 IST" name="closeBrowser" finished-at="2023-05-03T11:24:29 IST" duration-ms="152" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- TestNGFrameWork.ConfigureOption -->
+      <class name="TestNGFrameWork.PerformanceFeature">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:TestNGFrameWork.PerformanceFeature@55182842]" started-at="2023-05-03T11:24:47 IST" name="openBrowser" finished-at="2023-05-03T11:24:52 IST" duration-ms="4597" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="loginCredentails()[pri:0, instance:TestNGFrameWork.PerformanceFeature@55182842]" started-at="2023-05-03T11:24:52 IST" name="loginCredentails" finished-at="2023-05-03T11:24:52 IST" duration-ms="19" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginCredentails -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:TestNGFrameWork.PerformanceFeature@55182842]" started-at="2023-05-03T11:24:52 IST" name="closeBrowser" finished-at="2023-05-03T11:24:52 IST" duration-ms="82" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- TestNGFrameWork.PerformanceFeature -->
+      <class name="TestNGFrameWork.TrackerinKPIs">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:TestNGFrameWork.TrackerinKPIs@55141def]" started-at="2023-05-03T11:24:43 IST" name="openBrowser" finished-at="2023-05-03T11:24:47 IST" duration-ms="3910" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="loginCredentails()[pri:0, instance:TestNGFrameWork.TrackerinKPIs@55141def]" started-at="2023-05-03T11:24:47 IST" name="loginCredentails" finished-at="2023-05-03T11:24:47 IST" duration-ms="20" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginCredentails -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:TestNGFrameWork.TrackerinKPIs@55141def]" started-at="2023-05-03T11:24:47 IST" name="closeBrowser" finished-at="2023-05-03T11:24:47 IST" duration-ms="80" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- TestNGFrameWork.TrackerinKPIs -->
+      <class name="TestNGFrameWork.JobTitleinKPIs">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:TestNGFrameWork.JobTitleinKPIs@235834f2]" started-at="2023-05-03T11:24:57 IST" name="openBrowser" finished-at="2023-05-03T11:25:02 IST" duration-ms="4639" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="loginCredentails()[pri:0, instance:TestNGFrameWork.JobTitleinKPIs@235834f2]" started-at="2023-05-03T11:25:02 IST" name="loginCredentails" finished-at="2023-05-03T11:25:02 IST" duration-ms="18" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginCredentails -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:TestNGFrameWork.JobTitleinKPIs@235834f2]" started-at="2023-05-03T11:25:02 IST" name="closeBrowser" finished-at="2023-05-03T11:25:02 IST" duration-ms="90" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- TestNGFrameWork.JobTitleinKPIs -->
+      <class name="TestNGFrameWork.MyReview">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:TestNGFrameWork.MyReview@76505305]" started-at="2023-05-03T11:25:12 IST" name="openBrowser" finished-at="2023-05-03T11:25:16 IST" duration-ms="4753" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="loginCredentails()[pri:0, instance:TestNGFrameWork.MyReview@76505305]" started-at="2023-05-03T11:25:16 IST" name="loginCredentails" finished-at="2023-05-03T11:25:16 IST" duration-ms="17" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginCredentails -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:TestNGFrameWork.MyReview@76505305]" started-at="2023-05-03T11:25:16 IST" name="closeBrowser" finished-at="2023-05-03T11:25:17 IST" duration-ms="85" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- TestNGFrameWork.MyReview -->
+      <class name="TestNGFrameWork.Search">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:TestNGFrameWork.Search@47eaca72]" started-at="2023-05-03T11:24:37 IST" name="openBrowser" finished-at="2023-05-03T11:24:43 IST" duration-ms="5585" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="loginCredentails()[pri:0, instance:TestNGFrameWork.Search@47eaca72]" started-at="2023-05-03T11:24:43 IST" name="loginCredentails" finished-at="2023-05-03T11:24:43 IST" duration-ms="22" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginCredentails -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:TestNGFrameWork.Search@47eaca72]" started-at="2023-05-03T11:24:43 IST" name="closeBrowser" finished-at="2023-05-03T11:24:43 IST" duration-ms="163" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- TestNGFrameWork.Search -->
+      <class name="TestNGFrameWork.KPIs">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:TestNGFrameWork.KPIs@5656be13]" started-at="2023-05-03T11:25:02 IST" name="openBrowser" finished-at="2023-05-03T11:25:06 IST" duration-ms="4686" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="loginCredentails()[pri:0, instance:TestNGFrameWork.KPIs@5656be13]" started-at="2023-05-03T11:25:06 IST" name="loginCredentails" finished-at="2023-05-03T11:25:06 IST" duration-ms="24" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginCredentails -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:TestNGFrameWork.KPIs@5656be13]" started-at="2023-05-03T11:25:06 IST" name="closeBrowser" finished-at="2023-05-03T11:25:06 IST" duration-ms="96" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- TestNGFrameWork.KPIs -->
+      <class name="TestNGFrameWork.ManageReviews">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:TestNGFrameWork.ManageReviews@4218d6a3]" started-at="2023-05-03T11:25:06 IST" name="openBrowser" finished-at="2023-05-03T11:25:12 IST" duration-ms="5142" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="loginCredentails()[pri:0, instance:TestNGFrameWork.ManageReviews@4218d6a3]" started-at="2023-05-03T11:25:12 IST" name="loginCredentails" finished-at="2023-05-03T11:25:12 IST" duration-ms="17" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginCredentails -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:TestNGFrameWork.ManageReviews@4218d6a3]" started-at="2023-05-03T11:25:12 IST" name="closeBrowser" finished-at="2023-05-03T11:25:12 IST" duration-ms="106" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- TestNGFrameWork.ManageReviews -->
+    </test> <!-- OrangeHRM -->
+  </suite> <!-- Suite -->
+</testng-results>
